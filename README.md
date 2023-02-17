@@ -1,3 +1,7 @@
+### Discord Kanalı
+https://discord.gg/quasarfi
+
+
 ### sistem güncellemesi yapıyoruz.
 
 ~~~bash
